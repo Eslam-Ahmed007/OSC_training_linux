@@ -1,0 +1,4 @@
+    PID CMD
+   4372 bash
+   4442 ps -o pid,cmd --sort cmd
+   4443 tee
